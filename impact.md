@@ -3,7 +3,9 @@ layout: default
 title: Impact
 ---
 
-# Quotes from participating seniors and their families
+# Impact
+
+## Quotes from participating seniors and their families
 
 > This project saved my life. Suddenly I realized the arch of my life could go up again. I found something I loved and could give back to.
 
@@ -34,9 +36,9 @@ title: Impact
 > Dear Lauren: Thank you for all you did to bring so much joy and meaning to mother during her years here.  You and the programs you organize add wonderful depth and texture to people’s lives at a time when those qualities are scarce.  And you do it with such vivality, grace and charm!
 >
 
-# Stories from the musicians
+## Stories from the musicians
 
-## Lauren
+### Lauren
 
 > A few days ago I played for Lily just a few hours before she passed. She had followed our project from the beginning.  We had laughed together and created music together. Up until she was placed on hospice a few months ago, she was a loyal listener, and never missed a rehearsal or concert.
 >
@@ -44,14 +46,14 @@ title: Impact
 >
 > This month, as we explore the relationship between music and spirituality, I’ve been reminded of the awesome power music has to give all stages of life more depth, more beauty, more meaning. Used correctly, in Lily’s room, it made all the difference: one last moment of connection, one last peaceful breath, one last smile.
 
-## Sara
+### Sara
 
 > On this particular day, when I walked into the memory care community, Mary complained that her hands were hurting. They were severely chapped and some ointment had just been put on the open wounds.  She thought there should be music to take away the pain so we composed an eight-bar song about her aching hands, which brought some humor to the situation.   Somewhere along the way she forgot about how much they actually hurt.  We then segued into singing Yiddish folk songs which is usually how we spend time together.  She will sing in Yiddish, translate, and then explain to me how the songs reflect Jewish culture and values.
 >
 
-# Marjorie’s story
+## Marjorie’s story
 
-## Presented at a luncheon in June 2017
+*Presented at a luncheon in June 2017*
 
 > How wonderful you all are to recognize and endorse the profound impact music has had on our community.  When Robert Browning wrote, “Grow old with me/the best is yet to be”, I don’t think he’d even hit 70.  Growing old is hard, and it’s especially daunting in this age of Adoring Youth in all its glory.  Each one of us has our singular story, but I’ll bet you practically anything that given the chance, we’d rather be at least 20 years younger, running around busy as bees.  It’s exciting to be able constantly to look forward, the the next best job, or invention, or play, or whatever makes life interesting for you.  A whole lot less wonderful when you can’t hit the tennis ball because your knee buckled, or retirement turns out to be more boring than exhilarating.  I could go on and on, but you all know the words to this particular song, and here’s where music enters.
 >

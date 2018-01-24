@@ -3,6 +3,10 @@ layout: default
 title: About the Iris Piano Trio
 ---
 
+# About
+
+## Iris Piano Trio
+
 Violinist Sara Matayoshi, cellist Lauren Latessa and pianist Jessica McKee formed the Iris Piano Trio in September of 2016 with the dual mission of performing chamber music at the highest level and creating meaningful musical experiences for seniors.
 
 ![iris-in-dc](/assets/img/iris-in-dc.jpg)
@@ -12,3 +16,15 @@ The group serves as the ensemble in residence for The Music Project in Rockville
 The 2018 year includes performances and presentations at the Peabody Conservatory, the Arts Club of Washington and the Music at St. Alban’s concert series in Davidson North Carolina.  Additionally, in March, the trio will host and present *Ladies First*, a week long celebration of women in the arts.
 
 In Greek Mythology the goddess Iris was thought to use the rainbow as a bridge between heaven and earth, while the petals of the Iris flower are said to symbolize faith, valor and wisdom. These metaphors captures the holistic spirit of the Iris trio’s work. Both in concert and through their commitment to their elderly neighbors, they are dedicated to using music to provide peace, comfort and spiritual fulfillment for the most vulnerable members of their community.
+
+## Sara
+
+Bio coming soon...
+
+## Lauren
+
+Bio coming soon...
+
+## Jessica
+
+Bio coming soon...
