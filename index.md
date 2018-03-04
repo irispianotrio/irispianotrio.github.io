@@ -3,7 +3,7 @@ layout: default
 title: The Iris Piano Trio
 ---
 
-The **Iris Music Project** is a music performance and creative aging initiative that crosses boundaries of generation, heritage and economic circumstances, connecting elders with their caregivers and participating musicians. 
+The **Iris Music Project** is a creative aging and music performance initiative that crosses boundaries of generation, heritage and economic circumstances, connecting elders with their caregivers and participating musicians. 
 
 ![iris-in-dc](/assets/img/potters.jpg)
 
