@@ -5,26 +5,18 @@ title: About the Iris Piano Trio
 
 # About
 
+* [Iris Piano Trio](about.html)
+* [Artistic Director and cellist, Lauren Latessa](lauren.html)
+* [Violinist, Sara Matayoshi](sara.html)
+* [Pianist, Jessica McKee](jessica.html)
+
 ## Iris Piano Trio
 
-Violinist Sara Matayoshi, cellist Lauren Latessa and pianist Jessica McKee formed the Iris Piano Trio in September of 2016 with the dual mission of performing chamber music at the highest level and creating meaningful musical experiences for seniors.
+As the Iris Piano Trio, cellist, Lauren Latessa, violinist Sara Matayoshi and pianist Jessica McKee collaborate alongside older adults and caregivers, curating a rotation of professional chamber music concerts, open rehearsals, participatory group programs and one-on-one sessions. The  Iris Piano Trio is embedded in the community twenty hours each week, forty week a year. The result of these experiences is a vibrant community dedicated to using music as a tool for social transformation.
 
 ![iris-in-dc](/assets/img/iris-in-dc.jpg)
 
-The group serves as the ensemble in residence for The Music Project in Rockville, MD. In this role, the trio collaborates with elders from three retirement homes, working in independent living, assisted living and memory care contexts.  Each year they curate an annual rotation of concerts, open rehearsals, participatory group programs, and one-on-one sessions designed specifically for these communities. The Music Project is a first-of-its-kind experiment at the intersection of creative aging and creative placemaking.
+Additionally, the 2018-2019 season includes performances and presentations at the Peabody Conservatory, the Arts Club of Washington and the Music at St. Alban’s concert series in Davidson North Carolina.  
 
-The 2018 year includes performances and presentations at the Peabody Conservatory, the Arts Club of Washington and the Music at St. Alban’s concert series in Davidson North Carolina.  Additionally, in March, the trio will host and present *Ladies First*, a week long celebration of women in the arts.
+The trio is named for the Greek Goddess, Iris, who was the personification of the rainbow and messenger of the gods. The image of a rainbow and the spirit of hope that is often attributed to rainbows serves as inspiration for the group as they pursue their art. 
 
-In Greek Mythology the goddess Iris was thought to use the rainbow as a bridge between heaven and earth, while the petals of the Iris flower are said to symbolize faith, valor and wisdom. These metaphors captures the holistic spirit of the Iris trio’s work. Both in concert and through their commitment to their elderly neighbors, they are dedicated to using music to provide peace, comfort and spiritual fulfillment for the most vulnerable members of their community.
-
-## Sara
-
-Bio coming soon...
-
-## Lauren
-
-Bio coming soon...
-
-## Jessica
-
-Bio coming soon...

@@ -1,9 +1,13 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: "Vollkorn", Palatino, Times;
 }
 img, video, audio, iframe, object {
-    max-width: 100%;
+    max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,11 +27,19 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 2.25em;
+}
+h3 {
+    font-size: 2em;
+}
+h4 {
+    font-size: 1.75em;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     line-height: 1.4em;
     color: #333;
 }
